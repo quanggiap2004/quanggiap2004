@@ -147,7 +147,7 @@ a {
 
 .buy {
 	position: absolute;
-	width: 100vw;
+	width: 100%;
 	top: calc(1180px - 417px);
 	height: 503px;
 	background-color: #000000;
@@ -159,29 +159,62 @@ a {
 	font-weight: bold;
 	font-size: 30px;
 	line-height: 35px;
-	color: #000000;
+	color: white;
 }
 .about {
+	position: relative;
+	color: white;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	position: absolute;
-	top: 1267px;
+	top: 1266px;
+	height: 600px;
+	width: 100%;
 }
 
+.about_background1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,0.5);
+	color: white;
+}
+
+.about_background2 {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-image: url(/img/cafe.jpg);
+	background-color: black;
+	background-size: cover;
+}
+  
 .about p {
 	width: 30%;
 }
 form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 	position: absolute;
-	top: 2000px;
-	width: 50%;
-	margin-right: 25%;
-	margin-left: 25%;
+	top: 1865px;
+	width: 100%;
+	height: 480px;
 }
 
+.form h1 {
+	position: absolute;
+	top: 20px;
+}
 form input {
+	
 	position: absolute;
 	border: none;
 	outline: none;
@@ -193,25 +226,34 @@ form input {
 
 .firstname {
 	position: absolute;
-	top: 0px;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	top: 100px;
 	border-radius: 60px;
 }
 .lastname {
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
 	position: absolute;
-	top: 80px;
+	top: 180px;
 	border-radius: 60px;
  }
 
 .email {
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
 	position: absolute;
-	top: 160px;
+	top: 260px;
 	border-radius: 60px;
  }
 
  .submit {
 	position: absolute;
 	cursor: pointer;
-	top: 250px;
+	top: 350px;
 	margin-left: 42%;
 	margin-right: 42%;
 	width: 16%;
