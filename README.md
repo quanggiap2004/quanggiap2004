@@ -13,6 +13,18 @@
 > Full-stack developer focused on building clean, scalable products with **.NET** · **Java** · **React** · **JavaScript**
 
 ---
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api?username=quanggiap2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api/top-langs/?username=quanggiap2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=quanggiap2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 
 ### 🛠 Tech Stack
 
@@ -37,18 +49,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api?username=quanggiap2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api/top-langs/?username=quanggiap2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=quanggiap2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
