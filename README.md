@@ -58,6 +58,12 @@
   <img src="https://streak-stats.demolab.com/?user=quanggiap2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/LordDashMe/github-contribution-stats/">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=quanggiap2004" alt="Contribution Stats" />
+  </a>
+</p>
+
 ---
 
 ### 🐍 Contribution Snake
