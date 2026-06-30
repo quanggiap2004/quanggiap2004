@@ -50,8 +50,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quanggiap2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quanggiap2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api?username=quanggiap2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api/top-langs/?username=quanggiap2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -59,9 +59,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/LordDashMe/github-contribution-stats/">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=quanggiap2004" alt="Contribution Stats" />
-  </a>
+  <img src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api?username=quanggiap2004&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Contribution Stats" />
 </p>
 
 ---
