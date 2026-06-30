@@ -16,16 +16,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api?username=quanggiap2004&show=prs_merged&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=star&rank_icon=github" alt="Contribution Stats" />
+  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api?username=quanggiap2004&show_icons=true&theme=tokyonight&include_all_
+commits=true&count_private=true&hide_border=true&hide=stars" />
+  <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api/top-langs/?username=quanggiap2004&layout=compact&langs_count=8&theme
+=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=quanggiap2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-    <img height="180em" src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api/top-langs/?username=quanggiap2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
 ### 🛠 Tech Stack
