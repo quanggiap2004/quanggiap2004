@@ -58,10 +58,6 @@
   <img src="https://streak-stats.demolab.com/?user=quanggiap2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-quanggiap2004s-projects.vercel.app/api?username=quanggiap2004&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="Contribution Stats" />
-</p>
-
 ---
 
 ### 🐍 Contribution Snake
