@@ -14,14 +14,6 @@
 
 ---
 
-### 🚀 Currently Building
-
-- 🔨 **[Your project name]** - [one-line description of what it does and the problem it solves]
-
-> ✏️ Replace this with your real current project and link its repo.
-
----
-
 ### 🛠 Tech Stack
 
 **Frontend**
